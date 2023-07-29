@@ -37,3 +37,14 @@ choco install exif-purge -y
 choco install exiftool -y
 choco install itunes -y
 choco install zoom -y
+choco install ea-app -y
+choco install legacy-games-launcher -y
+choco install rockstar-launcher -y
+choco install anydesk -y
+choco install coretemp -y
+choco install hwinfo -y
+choco install humble-app -y
+choco install qbittorrent -y
+choco install winscp -y
+choco install icloud -y
+choco install cryptomator -y
