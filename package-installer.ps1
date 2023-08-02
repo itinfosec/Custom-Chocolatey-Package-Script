@@ -48,3 +48,10 @@ choco install qbittorrent -y
 choco install winscp -y
 choco install icloud -y
 choco install cryptomator -y
+choco install github-desktop -y
+choco install sublimetext3 -y
+choco install sublimetext4 -y
+choco install putty.install -y
+choco install vim -y
+choco install nano -y
+choco install rainmeter -y
