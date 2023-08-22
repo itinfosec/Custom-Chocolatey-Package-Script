@@ -55,3 +55,10 @@ choco install putty.install -y
 choco install vim -y
 choco install nano -y
 choco install rainmeter -y
+choco install obs -y
+choco install handbrake -y
+choco install calibre -y
+choco install chirp -y
+choco install hexchat -y
+choco install ledger-live -y
+choco install renamemytvseries2 -y
