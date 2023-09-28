@@ -25,7 +25,7 @@ choco install geforce-experience -y
 choco install steam -y
 choco install ubisoft-connect -y
 choco install epicgameslauncher -y
-choco install origin -y
+choco install ea-app -y
 choco install amazongames -y
 choco install goggalaxy -y
 choco install plexmediaplayer -y
@@ -62,3 +62,8 @@ choco install chirp -y
 choco install hexchat -y
 choco install ledger-live -y
 choco install renamemytvseries2 -y
+choco install rpi-imager -y
+choco install vnc-viewer -y
+choco install vnc-connect -y
+choco install windirstat -y
+choco install crystaldiskinfo -y
